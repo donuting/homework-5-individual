@@ -12,7 +12,7 @@ import static org.junit.Assert.*;
 
 public class LoginInteractorTest {
 
-    // TODO Task 2.2: make a copy of this test method and follow the instructions in the readme to test your
+    // TO DO Task 2.2: make a copy of this test method and follow the instructions in the readme to test your
     //                code from Task 2.1..
     @Test
     public void successTest() {
