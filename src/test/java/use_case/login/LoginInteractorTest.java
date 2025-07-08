@@ -41,6 +41,7 @@ public class LoginInteractorTest {
         interactor.execute(inputData);
     }
 
+    @Test
     public void successUserLoggedInTest() {
         LoginInputData inputData = new LoginInputData("Paul", "password");
         LoginUserDataAccessInterface userRepository = new InMemoryUserDataAccessObject();
